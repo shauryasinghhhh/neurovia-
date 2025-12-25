@@ -1,0 +1,25 @@
+{
+    "test": "reasoning",
+    "instructions": "Choose the correct answer based on logical reasoning.",
+    "questions": [
+      {
+        "id": 1,
+        "question": "If all Bloops are Razzies and all Razzies are Lazzies, are all Bloops Lazzies?",
+        "options": ["Yes", "No"],
+        "answer": "Yes"
+      },
+      {
+        "id": 2,
+        "question": "Which number comes next: 2, 4, 8, 16, ?",
+        "options": ["18", "24", "32", "34"],
+        "answer": "32"
+      },
+      {
+        "id": 3,
+        "question": "If today is Monday, what day will it be after 10 days?",
+        "options": ["Wednesday", "Thursday", "Friday", "Saturday"],
+        "answer": "Thursday"
+      }
+    ]
+  }
+  

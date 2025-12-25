@@ -1,0 +1,19 @@
+{
+    "test": "attention",
+    "instructions": "Focus on the target letter and choose the correct answer.",
+    "questions": [
+      {
+        "id": 1,
+        "question": "Select the letter that appears most frequently: A B C A D A",
+        "options": ["A", "B", "C", "D"],
+        "answer": "A"
+      },
+      {
+        "id": 2,
+        "question": "Select the number that repeats: 5 3 7 3 9",
+        "options": ["5", "3", "7", "9"],
+        "answer": "3"
+      }
+    ]
+  }
+  
